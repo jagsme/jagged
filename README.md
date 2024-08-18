@@ -1,1 +1,5 @@
-hello this is test page for testing purpose
+<html>
+  <script>
+    alert(OPENBUGBOUNTY)
+  </script>
+</html>
